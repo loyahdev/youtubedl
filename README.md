@@ -2,11 +2,15 @@
 
 ## Introduction
 
-- This is a web-based YouTube downloading website for my family!
+- This is a web-based YouTube downloading website made for an iOS shortcut Downloadify
 
 ## Demonstration
 
-- Here is the [link](https://youtube.peterli.website) for this repository demonstration.
+- Here is the [link](https://loyahdev.me/youtubedl) for this repository demonstration.
+
+## Reason
+
+YouTube kind of made downloading videos way harder and current shortcuts are deemed not working. I made this using a downloading API for simplicity and a downloader that has no ads or sketchy websites.
 
 ## Thanks
 
